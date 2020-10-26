@@ -1,0 +1,25 @@
+{
+  "name": "elementa",
+  "version": "1.0.0",
+  "description": "elementa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samuelvernon/elementa.git"
+  },
+	"publishConfig": {
+		"registry":"https://npm.pkg.github.com"
+	},
+  "keywords": [
+    "elementa"
+  ],
+  "author": "samuelvernon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelvernon/elementa/issues"
+  },
+  "homepage": "https://github.com/samuelvernon/elementa#readme"
+}
